@@ -1,0 +1,101 @@
+### 新发布的 C++ 会议视频 - 2024年6月（更新包括2024年6月24日至6月30日发布的视频）
+
+本月以下 C++ 视频已发布到 YouTube。每周都会新发布视频，并创建新的帖子更新发布情况。
+
+#### ACCU 会议
+**2024年6月24日 - 6月30日**
+- [学习不同编程语言的好处 - Francis Glassborow](https://youtu.be/S51Q6j_vhGc)
+- [窄合同和 `noexcept` 在 C++ 中本质上不兼容 - John Lakos](https://youtu.be/VCwC1cvP8i0)
+- [C# 性能 - 魔鬼、巫师、勇士、审计员 - Steve Love](https://youtu.be/J2fmQxyg7PM)
+
+**2024年6月17日 - 6月23日**
+- [绿色软件架构 - 做与不做以及一些惊喜 - Giovanni Asproni](https://youtu.be/Ir5Ka81I-ZE)
+- [DLang 如何改善我的现代 C++ 和反之亦然 - Mike Shah](https://youtu.be/CnKsOak0DHU)
+- [CTAD：类模板参数推导的完整指南 - Nina Ranns](https://youtu.be/c3R7aNf39o0)
+
+**2024年6月10日 - 6月16日**
+- [主题演讲：安全、保障、安全[sic] 和 C/C++[sic] - C++ 演变 - Herb Sutter](https://youtu.be/EB7yR-1317k)
+
+#### C++Online
+**2024年6月24日 - 6月30日**
+- [使用 C++20 的 `constexpr` / `consteval`、折叠表达式和概念简化模板 - https://youtu.be/59lFn3dfdOQ](https://youtu.be/59lFn3dfdOQ)
+- [闪电演讲：实现 C++ 标准库需要做什么？后续：约束与限制？ - Christopher Di Bella](https://youtu.be/2OZvnr79q3c)
+- [闪电演讲：没有 “Unsafe” 的 Rust 像 C++ 一样不安全 - Pavel Novikov](https://youtu.be/vh_TO93neEs)
+
+**2024年6月17日 - 6月23日**
+- [系统 C++ 编程中的未初始化使用：C++ 类型之前的字节 - JF Bastien](https://youtu.be/n7Tl1qJxTew)
+- [劫持单例以启用 C++ 旧代码的单元测试 - David Benson](https://youtu.be/vZGfj32vPmE)
+- [C++ 中的策略设计模式 - Mike Shah](https://youtu.be/PHJ0jizBhpE)
+
+**2024年6月10日 - 6月16日**
+- [协程和 gRPC - Jonathan Storey](https://youtu.be/kFgA-47fbjM)
+- [`flat_map` - WHO NEEDS THEM? THEY’RE JUST LIKE std::map. WE ALL HAVE THEM - Pavel Novikov](https://youtu.be/qIjA4JpFA7w)
+- [C++ 工具直觉 - Kevin Carpenter](https://youtu.be/lWOx5cuj1hc)
+
+**2024年6月3日 - 6月9日**
+- [脆弱的 C++ - Peter Sommerlad](https://youtu.be/CALka5ZldL0)
+- [使用 Undo 的时间旅行调试调试您最棘手的 C++ 错误 - Greg Law](https://youtu.be/R6QQT8sSmcA)
+- [最佳 C++ 调试器用于大规模 Linux 代码库 2024 - https://youtu.be/H9WiyFzaB4o](https://youtu.be/H9WiyFzaB4o)
+
+**2024年5月27日 - 6月2日**
+- [使用消息传递设计 C++ 并发 - Anthony Williams](https://youtu.be/D1oBq4PIEW8)
+- [C++20 协程初学者指南 - Andreas Fertig](https://youtu.be/4xdef0fRsQ0)
+- [主题演讲：AI 能取代程序员吗？ - Frances Buontempo](https://youtu.be/jX_NoK-xdrk)
+
+#### Audio Developer 会议
+**2024年6月24日 - 6月30日**
+- [用于 GPU 数据的快速音频线程同步 - Evan Mezeske](https://youtu.be/lb8b1SYy73Q)
+- [音频编程的声音 - 开发完美的 Glitch - Balazs Kiss](https://youtu.be/rlMvfFGEj3Q)
+- [混沌系统的音频属性 - George Gkountouras 和 Christopher Johann Clarke](https://youtu.be/NG6lzDZXHeE)
+
+**2024年6月17日 - 6月23日**
+- [使用 Rest API 解锁您的音频处理超级能力 - Baptiste Vericel 和 Alexandre Louiset](https://youtu.be/Ry0Mu4l0NMo)
+- [空间音频工具和格式的现状 - Guillaume Le Nost 和 Olivier Petit](https://youtu.be/pL7EScobC-0)
+- [数字音频工作站（及其他基于时间的媒体软件）的架构 - Ilias Bergström](https://youtu.be/q5Q-vXzC0Ig)
+
+**2024年6月10日 - 6月16日**
+- [超越人类自然性的唱歌合成：与您所想不同 - Kanru Hua](https://youtu.be/qgzOBR_6ID4)
+- [印度音乐黑客日获奖者演示 - ADCx India 2024](https://youtu.be/efMyWdz2U8U)
+- [构建音乐评估引擎：需求、挑战和解决方案 - Martin Gasser](https://youtu.be/vQpl9M3LmvQ)
+
+**2024年6月3日 - 6月9日**
+- [音乐技术中的多样性：音乐信息检索中的多样性倡议和见解 - https://youtu.be/MiDQpWrYur4](https://youtu.be/MiDQpWrYur4)
+- [剧院的现场声音风景构建 - Padmanabhan J - ADCx India 2024](https://youtu.be/IK1N5bNFc0I)
+- [使用符号生成 AI 的协作歌曲创作与制作 - Sadie Allen 和 Anirudh Mani ADC](https://youtu.be/9prniy6NutY)
+
+**2024年5月27日 - 6月2日**
+- [如何编写无错误的实时音频 C++ 代码？ - Jan Wilczek](https://youtu.be/Tvf7VVH53-4)
+- [用卷积进行考古声学保护 - Akash Sharma](https://youtu.be/XP4N1BWE5Jo)
+- [Vars，Values 和 ValueTrees：JUCE 中的状态管理 - Jelle Bakker](https://youtu.be/pXmXLB7Kbds)
+
+#### 使用 std::cpp
+**2024年6月24日 - 6月30日**
+- [用于加速深度学习的 SYCL 集成编译器运行时 - Abhilash Majumder](https://www.youtube.com/watch?v=Lf3zgyJifA8)
+- [关于 C++ 代码覆盖率你需要知道的一切 - Xavier Bonaventura 和 Jorge Pinto Sousa](https://www.youtube.com/watch?v=LDtZpE0aKyQ)
+- [新库集合为你的下一个项目提供坚实的库基础 - Jonathan Müller](https://www.youtube.com/watch?v=XvfVdxNrEpA)
+- [在 Airbus DS ISR 产品中使用 C++ - 概述 - Carlos Gómez](https://www.youtube.com/watch?v=NemOOLA-bNI)
+- [通过可调用抽象实现零开销按值传递 - Filipp Gelman](https://www.youtube.com/watch?v=cECDEZfJXV0)
+- [新的 MISRA C++ 2023 安全指南 - Peter Sommerlad](https://www.youtube.com/watch?v=v8JmiIdi1wg)
+- [使用 Qt 实现现代 C++ 异步 - Ville Voutilainen](https://www.youtube.com/watch?v=FX0rbx3wnVo)
+- [从中型到大型：快速增长的 IT 陷阱 - Juan Alday](https://www.youtube.com/watch?v=CQvCMSUsfx4)
+
+**2024年6月17日 - 6月23日**
+- [编译时反射 - Kris Jusiak](https://www.youtube.com/watch?v=duKCN0Fy_iQ)
+- [用于嵌入式设备的机器学习应用：使用 TinyML 和 C++](https://www.youtube.com/watch?v=Pp9jjOdMU9k)
+- [C++ 类型擦除 - Michael Hava](https://www.youtube.com/watch?v=CVjqmM8cbLc)
+
+**2024年6月3日 - 6月9日**
+- [通过良好的设计减少编译时间 - Andrew Pearcy 和 Jeffrey So](https://www.youtube.com/watch?v=Afc6Cjk0gJk)
+- [开放是好的：使用 YOMM2 的快速正交开放多方法 - Jean Louis Leroy](https://www.youtube.com/watch?v=cOYE6OiuuMo)
+- [解释的 C++ 是一回事吗 - Javier López](https://www.youtube.com/watch?v=6xzR-IR85wM)
+- [在不完美的世界中实现完美哈希 - Joaquín M. López Muñoz](https://www.youtube.com/watch?v=yOo6GnbKzp8)
+- [五大调试技巧——第五个会让您惊讶！ - Sebastian Theophil](https://www.youtube.com/watch?v=Mj8Pwo9F9tw)
+- [如何在不烧毁手机的情况下运行深度学习 - Iago Suarez](https://www.youtube.com/watch?v=i9nN9qA4IxQ)
+- [介绍发送者接收者框架和标准执行 - Goran Arandelovic](https://www.youtube.com/watch?v=8V2bfeUZ31c)
+
+**2024年5月27日 - 6月2日**
+- [使用 Moody Camel 的实现并行化代码执行 - Javier Abud](https://www.youtube.com/watch?v=KI9upSqZK4k)
+
+#### C++OnSea
+C++OnSea 还发布了一些与他们的 2024 年演讲者的访谈视频，以推广即将到来的会议，您可以在这个播放列表中找到：
+https://www.youtube.com/playlist?list=PL5XXu3X6L7jsQpt18_TNitUW5KquxMSan
